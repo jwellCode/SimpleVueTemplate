@@ -19,7 +19,7 @@ import { RouterLink, RouterView } from "vue-router";
     <router-view />
   </main>
 
-  <footer class="bg-green-200 w-full bottom-0 absolute footer">
+  <footer class="bg-green-200 w-full footer">
     THIS IS THE FOOTER
   </footer>
 </template>
