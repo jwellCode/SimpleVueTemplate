@@ -9,9 +9,9 @@ import { RouterLink, RouterView } from "vue-router";
 
   <nav class="bg-gray-200 w-full">
     <ul class="text-xl nav">
-      <router-link to="/">Start</router-link>
-      <router-link to="/uebermich">Über Mich</router-link>
-      <router-link to="/kontakt">Kontakt</router-link>
+      <router-link to="/">Home</router-link>
+      <router-link to="/about">About</router-link>
+      <router-link to="/info">Info</router-link>
     </ul>
   </nav>
 
@@ -20,7 +20,7 @@ import { RouterLink, RouterView } from "vue-router";
   </main>
 
   <footer class="bg-green-200 w-full bottom-0 absolute footer">
-    THIS IS A FOOTER BLAAA
+    THIS IS THE FOOTER
   </footer>
 </template>
 
