@@ -1,6 +1,6 @@
 # SimpleVueTemplate
 
-This template should help get you started developing a simple SPA with Vue 3 in Vite.
+This template should help get you started developing a simple SPA with Vue 3 and Tailwind CSS in Vite.
 
 ## Recommended IDE Setup
 
